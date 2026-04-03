@@ -1,10 +1,10 @@
 # [level 0] 두 수의 합 구하기 - 120802 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120802?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120802?language=ruby) 
 
 ### 성능 요약
 
-메모리: 9.14 MB, 시간: 0.00 ms
+메모리: 14 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 03월 03일 22:04:05
+2026년 04월 03일 10:04:40
 
 ### 문제 설명
 
