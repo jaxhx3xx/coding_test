@@ -1,10 +1,10 @@
 # [level 0] 몫 구하기 - 120805 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120805?language=cpp) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120805?language=scala) 
 
 ### 성능 요약
 
-메모리: 3.59 MB, 시간: 0.01 ms
+메모리: 90.8 MB, 시간: 0.77 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 01일 22:27:40
+2026년 05월 01일 14:14:44
 
 ### 문제 설명
 
